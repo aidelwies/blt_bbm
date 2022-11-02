@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BLT BBM",
+      "image": "https://monitor.co.id/wp-content/uploads/2022/10/bbm-subsidi.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BLT BBM",
+      "title": "Pengertian Subsidi BLT BBM",
+      "image": "https://cdn-2.tstatic.net/wartakota/foto/bank/images/Penyaluran-bansos-BLT-subsidi-BBM-mulai-Kamis-192022.jpg",
+      "description": "Pengertian tentang Subsidi BLT BBM",
+      "link": "https://masutarji.github.io/isinya/bltpengertian.html"
+    },
+    {
+      "id": 2,
+      "name_category": "BLT BBM",
+      "title": "Penerima Subsidi BLT BBM",
+      "image": "https://monitor.co.id/wp-content/uploads/2022/10/bbm-subsidi.jpg",
+      "description": "Syarat Penerima Subsidi BLT BBM",
+      "link": "https://masutarji.github.io/isinya/penerimakategori.html"
+    },
+    {
+      "id": 3,
+      "name_category": "BLT BBM",
+      "title": "Metode Penyaluran Subsidi",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/28/2220460863.jpg",
+      "description": "Beberapa Metode Penyaluran Subsidi BLT BBM",
+      "link": "https://masutarji.github.io/isinya/metodpenyaluarn.html"
+    },
+    {
+      "id": 4,
+      "name_category": "BLT BBM",
+      "title": "Cek Subsidi BLT BBM",
+      "image": "https://cdn-2.tstatic.net/jakarta/foto/bank/images/Harga-Pertalite-naik.jpg",
+      "description": "Cara Cek Subsidi BLT BBM",
+      "link": "https://masutarji.github.io/isinya/mengeceknya.html"
+    }
+  ]
+}
